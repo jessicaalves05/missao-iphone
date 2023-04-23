@@ -1,7 +1,7 @@
 <h1 align="center">Projeto-iphone</h1>
 <p align="center"> Este projeto foi criado com o objetivo adicionar imagens em uma página Web e alterá-las dinamicamente quando um botão for clicado.
 Para criar esse projeto, utilizei as seguintes tecnologias:
-<p> para estruturar a página.</p> 
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logop" /> para estruturar a página.</p> 
 <p>CSS foi usado para estilizar a página.</p>
 <p>JavaScript foi empregado para programar a dinâmica do projeto.</p>
 </P>
