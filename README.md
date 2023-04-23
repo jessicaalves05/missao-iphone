@@ -3,6 +3,13 @@
 Para criar esse projeto, utilizei as seguintes tecnologias: HTML para estruturar a página, CSS foi usado para estilizar a página e o JavaScript foi empregado para programar a dinâmica do projeto.
 </P>
 <br>
-<img alt="img-projeto-1" src="https://user-images.githubusercontent.com/130418259/233708565-03891fd5-33ed-4a5e-8b0b-8da1b705fd84.png" width="400" />
-<img alt="img-projeto-2" src="https://user-images.githubusercontent.com/130418259/233709540-b9d53b6c-479a-49f8-b219-ea502f439100.png" width="400"  />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/130418259/233708565-03891fd5-33ed-4a5e-8b0b-8da1b705fd84.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/130418259/233709540-b9d53b6c-479a-49f8-b219-ea502f439100.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/130418259/233815025-807194cc-5fba-4394-842d-21b74e2effbb.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/130418259/233815028-f3b0099c-310a-463f-b40b-e0f2efe6a396.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/130418259/233815132-60babfd1-1948-4813-ae99-af97413b2150.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/130418259/233815032-17a6dcf6-91cf-4bd5-aefa-5389800347de.png" width="300" /> 
+ </p>
+
 
