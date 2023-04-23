@@ -1,6 +1,9 @@
 <h1 align="center">Projeto-iphone</h1>
-<p align="center"> Este projeto foi criado com o objetivo de aprender a adicionar imagens em uma página Web e alterá-las dinamicamente quando um botão for clicado.
-Para criar esse projeto, utilizei as seguintes tecnologias: HTML para estruturar a página, CSS foi usado para estilizar a página e o JavaScript foi empregado para programar a dinâmica do projeto.
+<p align="center"> Este projeto foi criado com o objetivo adicionar imagens em uma página Web e alterá-las dinamicamente quando um botão for clicado.
+Para criar esse projeto, utilizei as seguintes tecnologias:
+<p> para estruturar a página.</p> 
+<p>CSS foi usado para estilizar a página.</p>
+<p>JavaScript foi empregado para programar a dinâmica do projeto.</p>
 </P>
 <br>
 <p align="center">
